@@ -19,7 +19,7 @@ let package = Package(
     targets: [
         .binaryTarget(
               name: "SpotifyiOS",
-              url: "https://github.com/achinwo/SpotifyiOS/releases/download/v1.3.2/SpotifyiOS.xcframework.zip",
+              url: "https://github.com/achinwo/SpotifyiOS/releases/download/1.3.3/SpotifyiOS.xcframework.zip",
               checksum: "061fdb53f602f0da367931b04fd1d199e3639cb040e72bb10308ae3e8d96f4d1"
         )
     ]
